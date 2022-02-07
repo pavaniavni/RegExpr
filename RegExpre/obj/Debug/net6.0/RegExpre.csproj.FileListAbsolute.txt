@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\bin\Debug\net6.0\RegExpre.exe
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\bin\Debug\net6.0\RegExpre.deps.json
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\bin\Debug\net6.0\RegExpre.runtimeconfig.json
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\bin\Debug\net6.0\RegExpre.dll
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\bin\Debug\net6.0\ref\RegExpre.dll
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\bin\Debug\net6.0\RegExpre.pdb
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.dll
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\ref\RegExpre.dll
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.pdb
+C:\Users\Pavani\source\repos\RegExpre\RegExpre\obj\Debug\net6.0\RegExpre.genruntimeconfig.cache
